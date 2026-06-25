@@ -1,0 +1,10 @@
+-- SQLite 3 
+-- Banco de Dados Embarcado (arquivo.db)
+
+-- Criar um banco de Dados: 
+
+-- Utilitário do sqlite 3 (sqlite.exe)
+   -- Linguagem SQL (Structured Query Language)
+-- Ferramenta Visual (DB-Browser for SQLite)
+-- Extensão do Vscode (Sqlite3 Editor)
+-- Script Python
